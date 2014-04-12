@@ -1,9 +1,9 @@
 ## April 12 Lesson Take-aways
 --------------------------
 ####- Downloaded XCode, Sublime Text
-######- Installed Homebrew, Git
-######- Made Github account, pushed files to Github repos using Command Line
-######- Learned Command Line Basics
+* Installed Homebrew, Git
+* Made Github account, pushed files to Github repos using Command Line
+* Learned Command Line Basics
 
 #### Command Line Basics Learned
 $ `cd` : stands for change directory (folder).
@@ -20,7 +20,8 @@ $ `git remote add origin [url for Github repository]` adds a link to a remote re
 $ `git add -A` adds/stages the changes that you have made within that directory
 $ `git commit -m "[message]"` 'commits' changes. makes them available to push to Github
 $ `git push origin master` pushes your committed changes to github
+$ `git status` checks your current status
 
 #### Resources
-[Github Basics](http://git-scm.com/book/en/Getting-Started-Git-Basics)
-[Command Line Basics](http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line)
+* [Github Basics](http://git-scm.com/book/en/Getting-Started-Git-Basics)
+* [Command Line Basics](http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line)
