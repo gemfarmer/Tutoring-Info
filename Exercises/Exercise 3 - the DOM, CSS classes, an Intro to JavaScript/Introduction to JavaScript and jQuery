@@ -8,6 +8,8 @@ For this assignment, let's connect JS to the HTML and explore one of the most co
 3. Add the jQuery code to your document in a `<script>` tag using the jQuery CDN
 4. Use jQuery selectors and the jQuery click event to change the button color
 
+[Solution:](https://github.com/gemfarmer/Tutoring-Info/tree/master/Exercises/Exercise%203%20-%20the%20DOM%2C%20CSS%20classes%2C%20an%20Intro%20to%20JavaScript/Intro%20to%20JS%20Exercise) again, try to do the exercise first before turning to this.
+
 
 #### Resources
 * [jQuery CDN](http://cdnjs.com/libraries/jquery/)
