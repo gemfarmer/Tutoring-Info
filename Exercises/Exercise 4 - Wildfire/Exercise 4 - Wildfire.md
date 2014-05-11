@@ -10,13 +10,13 @@
 #### Exercise.
 1. Copy the starter code [here](www.startercode.com)
 2. When the user clicks on the Lake, it should become selected. Then, when the user clicks on any piece of #land, the clicked button should become blue. Use the Bootstrap button class that makes buttons blue.
-![alt tag](/images/water.png)
+![alt tag](images/water.png)
 3. When the user clicks on the Campfire, it should become selected. Then, when the user clicks on any piece of #land, the clicked button should become red. Use the Bootstrap button class that makes buttons red.
-![alt tag](/images/fire.png)
+![alt tag](images/fire.png)
 4. When the user sets a piece of #land on fire, it should begin burning. Surrounding parcels will first turn orange, and then red. Orange parcels spread at a rate of 2 parcels per second. Red parcels spread at a rate of 1 parcel per second.
-![alt tag](/images/burning.png)
+![alt tag](images/burning.png)
 5. Making parcels into water should contain the fire. Water can't catch on fire, and fire can't jump water.
-![alt tag](/images/final.png)
+![alt tag](images/final.png)
 6. Add your own piece of functionality! Replace the buttons with icons or images? Make the color of the fire increase in intensity over time? Add houses that take longer to burn down? Use your imagination and challenge yourself.
 
 
