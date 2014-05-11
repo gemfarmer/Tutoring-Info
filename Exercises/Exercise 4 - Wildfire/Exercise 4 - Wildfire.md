@@ -8,7 +8,7 @@
 * Timers
 
 #### Exercise.
-1. Copy the starter code [here](www.startercode.com)
+1. Copy the starter code [here](https://github.com/gemfarmer/Tutoring-Info/tree/master/Exercises/Exercise%204%20-%20Wildfire/Exercise%204%20Starter%20Code)
 2. When the user clicks on the Lake, it should become selected. Then, when the user clicks on any piece of #land, the clicked button should become blue. Use the Bootstrap button class that makes buttons blue.
 ![alt tag](images/water.png)
 3. When the user clicks on the Campfire, it should become selected. Then, when the user clicks on any piece of #land, the clicked button should become red. Use the Bootstrap button class that makes buttons red.
